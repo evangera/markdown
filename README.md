@@ -4,7 +4,7 @@
 ### Heading 3
 #### Heading 4
 ##### Heading 5
-###### Headings 6
+###### Heading 6
 
 <!-- Italics -->
 *This text* is italic
